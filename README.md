@@ -58,6 +58,7 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
+
 ![image](https://github.com/karthikkrishna16/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514663/00c167ad-ffa7-41e1-8a7f-d982032c3c22)
 
 /*
@@ -66,12 +67,15 @@ Developed by: T H KARTHIK KRISHNA
 RegisterNumber: 23014165 
 */
 RTL logic:
+
 ![image](https://github.com/karthikkrishna16/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514663/f30466d2-7b71-41d8-bec2-ca6510793611)
 
 Timimg Diagram:
+
 ![image](https://github.com/karthikkrishna16/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514663/7618c50c-3bd8-4cdb-a03e-fba6eb400d18)
 
 Truth Table:
+
 ![image](https://github.com/karthikkrishna16/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514663/5bffc41c-5f5a-4558-b2c1-a269a03a58d6)
 
 Result:
